@@ -1,9 +1,9 @@
 # Singleton_with_lazy_initialization
 
-Найти пример паттерна Singleton с ленивой реализацией (lazy initialization).
-По образу и подобию в отдельных файлах создать в отдельных файлах три класса синглтона — Sun, Moon, Earth.
-Реализовать интерфейс Planet в классах Sun, Moon, Earth.
-В статическом блоке класса Solution вызвать метод readKeyFromConsoleAndInitPlanet().
-Реализовать функционал метода readKeyFromConsoleAndInitPlanet():
-для этого считай с консоли один параметр типа String.
-если он равен одной из констант интерфейса Planet, создай соответствующий объект и присвой его Planet thePlanet, иначе — обнули Planet thePlanet.
+Знайти приклад патерну Singleton з лінивою реалізацією (lazy initialization).
+За образом та подобою в окремих файлах створити в окремих файлах три класи синглтона - Sun, Moon, Earth.
+Реалізувати інтерфейс Planet у класах Sun, Moon, Earth.
+У статичному блоці класу Solution викликають метод readKeyFromConsoleAndInitPlanet().
+Реалізувати функціонал методу readKeyFromConsoleAndInitPlanet():
+для цього рахуй з консолі один параметр типу String.
+якщо він дорівнює одній з констант інтерфейсу Planet, створи відповідний об'єкт і присвоє його Planet thePlanet, інакше - обнули Planet thePlanet.
